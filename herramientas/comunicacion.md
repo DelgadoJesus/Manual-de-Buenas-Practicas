@@ -1,5 +1,3 @@
----
-
 ### Herramientas de Comunicación  
 | Herramienta       | Uso Recomendado                                                                 |
 |-------------------|---------------------------------------------------------------------------------|
@@ -7,5 +5,3 @@
 | **Discord**       | Canales temáticos (#investigación, #dudas). Reuniones de voz.                   |
 | **Google Meet**   | Reuniones formales o presentaciones. Permite grabaciones.                       |
 | **Correo**        | Solo para comunicación formal con profesores.                                   |
-
----
