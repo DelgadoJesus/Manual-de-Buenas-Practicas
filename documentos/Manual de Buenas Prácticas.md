@@ -156,4 +156,25 @@ Para garantizar que se aborden todas las tareas esenciales:
 
 ---
 
-> *"La clave no es hacer más cosas, sino hacer las cosas correctas."*  
+> *"La clave no es hacer más cosas, sino hacer las cosas correctas."*
+
+## 📄 FORMATOS ACADÉMICOS ESTANDARIZADOS
+
+### 1. PLANTILLA BASE PARA TRABAJOS
+Todos los trabajos grupales deben seguir esta estructura:
+
+#### 1.1 Elementos obligatorios
+
+1. **Portada formal**  
+   - Datos completos de la universidad  
+   - Nombres e IDs de todos los integrantes  
+   - Fecha real de entrega
+
+2. **Índice automatizado**  
+   - Generado con estilos de Word/Google Docs  
+   - Actualizado antes de imprimir
+
+3. **Cuerpo del trabajo**  
+   - Introducción con objetivos claros  
+   - Desarrollo con subtítulos numerados  
+   - Conclusiones basadas en resultados  
