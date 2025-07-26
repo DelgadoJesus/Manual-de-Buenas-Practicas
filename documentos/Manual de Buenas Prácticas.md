@@ -115,3 +115,45 @@ Para garantizar que se aborden todas las tareas esenciales:
 ---
 
 > _"La organización y la comunicación son la base del éxito en trabajos grupales."_
+
+# 📅 Organización de Grupos Universitarios  
+## Cronograma Semanal y Priorización de Tareas  
+
+---
+
+## 🗓️ Cronograma Semanal (Ejemplo)  
+| Día       | Tarea Principal                    | Responsable   | Herramienta       | Hora Estimada |
+|-----------|------------------------------------|---------------|-------------------|---------------|
+| **Lunes** | Investigación de fuentes           | Investigador  | Google Scholar    | 2 horas       |
+| **Martes**| Reunión: asignación de roles       | Coordinador   | Google Meet       | 1 hora        |
+| **Miér**  | Redacción de introducción          | Editor        | Google Docs       | 3 horas       |
+| **Jueves**| Revisión de formato APA            | Revisor       | Zotero            | 1.5 horas     |
+| **Viernes**| Entrega de avance al profesor     | Coordinador   | Correo electrónico| 0.5 horas     |
+| **Sábado**| Corrección de feedback             | Todo el equipo| Discord           | 2 horas       |
+| **Domingo**| Descanso / tareas individuales    | -             | -                 | -             |
+
+---
+
+## 🎯 Tips para Priorizar Tareas  
+### 1. **Regla del 80/20**  
+   - Enfócate en el **20% de tareas** que generan el **80% de resultados** (ej: investigar fuentes clave vs. leer material complementario).  
+
+### 2. **Matriz de Eisenhower**  
+   | Urgente | No urgente |  
+   |---------|------------|  
+   | **✅ Hacer ya** (ej: corrección de profesor) | **📅 Planificar** (ej: próxima reunión) |  
+   | **❌ Delegar** (ej: buscar imágenes) | **🗑️ Eliminar** (ej: reuniones sin agenda) |  
+
+### 3. **Técnica Pomodoro**  
+   - Trabajar en bloques de **25 minutos** + 5 minutos de descanso. Ideal para redacción o investigaciones largas.  
+
+### 4. **Fechas límite internas**  
+   - Siempre establezcan entregas **2 días antes** de la fecha real para imprevistos.  
+
+### 5. **Herramientas útiles**  
+   - 📌 **Trello**: Para tableros Kanban (columnas: *Por hacer*, *En progreso*, *Terminado*).  
+   - ⏰ **Google Calendar**: Recordatorios automáticos para reuniones.  
+
+---
+
+> *"La clave no es hacer más cosas, sino hacer las cosas correctas."*  
