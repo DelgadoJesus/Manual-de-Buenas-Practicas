@@ -28,6 +28,13 @@ feature/organigrama-jesus
 
 ### Changed
 - Mejorada estructura de archivos en la carpeta `herramientas/`
+feature/plantilla-base-jesus
+
+## [v1.3] - 2025-07-30
+
+### Added
+- **Nueva sección en manual**: "Formatos Académicos Estandarizados"
+=======
 =======
 ### Añadido
 - Sección "Organización del Grupo" con roles (Coordinador, Investigador, Editor).
@@ -36,3 +43,4 @@ feature/organigrama-jesus
 
 ### Changed
 - Migración de Word a Markdown para mejor seguimiento. 
+main
