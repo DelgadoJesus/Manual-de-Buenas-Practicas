@@ -27,3 +27,8 @@
 
 ### Changed
 - Mejorada estructura de archivos en la carpeta `herramientas/`
+
+## [v1.3] - 2025-07-30
+
+### Added
+- **Nueva sección en manual**: "Formatos Académicos Estandarizados"
