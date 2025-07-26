@@ -178,3 +178,82 @@ Todos los trabajos grupales deben seguir esta estructura:
    - Introducción con objetivos claros  
    - Desarrollo con subtítulos numerados  
    - Conclusiones basadas en resultados  
+
+# 📚 Guía de Citas APA (7ª edición)
+
+Este documento presenta ejemplos prácticos de cómo citar **libros** y **páginas web** siguiendo el estilo APA (7ª edición). También se incluye una referencia al archivo oficial `apa-guia.pdf`.
+
+---
+
+## 📖 Ejemplos de Citas APA para Libros
+
+### 🔹 Libro impreso con un solo autor
+**Referencia:**
+> García, J. (2020). *Introducción a la psicología*. Editorial Universitaria.
+
+**Cita en el texto:**
+> (García, 2020)
+
+---
+
+### 🔹 Libro impreso con dos autores
+**Referencia:**
+> Martínez, A., & Rodríguez, B. (2019). *Fundamentos de la sociología*. Editorial Nuevo Mundo.
+
+**Cita en el texto:**
+> (Martínez & Rodríguez, 2019)
+
+---
+
+### 🔹 Libro electrónico con URL
+**Referencia:**
+> Panza, M. (2019). *Números: elementos de matemáticas para filósofos*. Universidad del Valle. https://www.reddebibliotecas.org.co/
+
+**Cita en el texto:**
+> (Panza, 2019)
+
+---
+
+### 🔹 Capítulo de libro editado
+**Referencia:**
+> Fernández, M. (2018). La importancia de la educación emocional. En R. Gutiérrez (Ed.), *Psicología educativa: Nuevas perspectivas* (pp. 45–67). Innovación Editorial.
+
+**Cita en el texto:**
+> (Fernández, 2018)
+
+---
+
+## 🌐 Ejemplos de Citas APA para Páginas Web
+
+### 🔹 Página web con autor individual
+**Referencia:**
+> Moret, D. (2019, octubre 7). 7 consejos para pedir una hipoteca. *Rastreator*. https://www.rastreator.com/hipotecas/consejos/pedir-una-hipoteca.aspx
+
+**Cita en el texto:**
+> (Moret, 2019)
+
+---
+
+### 🔹 Página web de una organización
+**Referencia:**
+> Organización Mundial de la Salud. (2018, mayo 24). Las 10 principales causas de muerte. https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
+**Cita en el texto:**
+> (Organización Mundial de la Salud, 2018)
+
+---
+
+### 🔹 Página web sin fecha
+**Referencia:**
+> Fondo Nacional del Ahorro. (s.f.). Cancelación de hipoteca. https://www.fna.gov.co/vivienda/tramites-especiales/cancelacion-de-hipoteca
+
+**Cita en el texto:**
+> (Fondo Nacional del Ahorro, s.f.)
+
+---
+
+## 📎 Referencia al PDF Oficial
+
+Este repositorio incluye el archivo oficial de guía APA:
+
+**Archivo:** `referencias/apa-guia.pdf`
