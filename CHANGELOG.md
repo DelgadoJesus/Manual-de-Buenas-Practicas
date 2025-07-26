@@ -6,6 +6,7 @@
 - Subido el Word al repositorio
 
 ## [v1.1] - 25-07-2025
+feature/organigrama-jesus
 
 ## Añadido
 - Sección "Organización del Grupo" con roles (Coordinador, Investigador, Editor).
@@ -27,3 +28,11 @@
 
 ### Changed
 - Mejorada estructura de archivos en la carpeta `herramientas/`
+=======
+### Añadido
+- Sección "Organización del Grupo" con roles (Coordinador, Investigador, Editor).
+- Diagrama visual de flujo de trabajo (`Roles de Grupo.png`).
+- PDF de estrategias comunicativas.
+
+### Changed
+- Migración de Word a Markdown para mejor seguimiento. 
