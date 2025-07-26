@@ -294,3 +294,39 @@ Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente
 
 ---
 
+# 🎤 Guía para Presentaciones Efectivas
+
+En esta sección se ofrece una serie de **tips clave para el diseño de diapositivas** que te ayudarán a crear presentaciones visualmente atractivas, claras y memorables. Se enfoca en el principio de "menos es más", priorizando el uso de **imágenes claras** y **texto mínimo**. Además, se incluyen varios enlaces con ejemplos prácticos.
+
+---
+
+## 🧠 Principios Fundamentales
+
+- **Menos texto, más impacto:** Evita párrafos largos. Usa frases cortas, palabras clave o preguntas que guíen tu discurso.
+- **Imágenes relevantes y de alta calidad:** Una imagen poderosa puede comunicar más que un bloque de texto. Asegúrate de que las imágenes sean nítidas y estén alineadas con tu mensaje.
+- **Diseño limpio y coherente:** Mantén una paleta de colores limitada, tipografía legible y un estilo visual uniforme en todas las diapositivas.
+- **Espacio en blanco:** No temas dejar áreas vacías. El espacio negativo ayuda a enfocar la atención y mejora la legibilidad.
+- **Visualización de datos:** Usa gráficos simples y llamativos para representar información numérica. Evita tablas complejas.
+
+---
+
+## 🖼️ Ejemplos Visuales
+
+Consulta los enlaces para ver ejemplos de buenas prácticas en diseño de diapositivas, incluyendo:
+
+- Comparaciones entre diapositivas saturadas vs. minimalistas.
+- Uso efectivo de imágenes y diagramas.
+- Plantillas recomendadas para presentaciones profesionales.
+
+---
+
+## ✅ Recomendaciones Adicionales
+
+- Usa **fuentes clásicas** como Arial o Verdana para asegurar legibilidad en cualquier dispositivo.
+- Aplica **contraste adecuado** entre texto y fondo para facilitar la lectura.
+- Evita el uso excesivo de **viñetas**; opta por esquemas visuales o íconos.
+- Si necesitas incluir más información, utiliza las **notas del orador** en lugar de saturar la diapositiva.
+- Practica tu presentación para que las diapositivas sean solo un apoyo visual, no el guion completo.
+
+---
+
