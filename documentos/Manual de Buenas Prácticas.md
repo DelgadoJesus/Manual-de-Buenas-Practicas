@@ -181,7 +181,7 @@ Todos los trabajos grupales deben seguir esta estructura:
 
 # 📚 Guía de Citas APA (7ª edición)
 
-Este documento presenta ejemplos prácticos de cómo citar **libros** y **páginas web** siguiendo el estilo APA (7ª edición). También se incluye una referencia al archivo oficial `apa-guia.pdf`.
+Esta sección presenta ejemplos prácticos de cómo citar **libros** y **páginas web** siguiendo el estilo APA (7ª edición). También se incluye una referencia al archivo oficial `apa-guia.pdf`.
 
 ---
 
@@ -257,3 +257,40 @@ Este documento presenta ejemplos prácticos de cómo citar **libros** y **págin
 Este repositorio incluye el archivo oficial de guía APA:
 
 **Archivo:** `referencias/apa-guia.pdf`
+
+# 🤝 Herramientas Colaborativas
+
+Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente utilizadas en entornos educativos, empresariales y creativos. Cada herramienta incluye una breve descripción y su respectivo logo ubicado en `imagenes/herramientas/`.
+
+---
+
+## 🗂️ 1. Google Drive
+
+**Descripción:** Plataforma de almacenamiento en la nube que permite compartir y editar archivos en tiempo real. Ideal para documentos, hojas de cálculo y presentaciones colaborativas.
+
+---
+
+## 📋 2. Trello
+
+**Descripción:** Herramienta de gestión de proyectos basada en tableros Kanban. Permite organizar tareas, asignar responsables y visualizar el progreso de forma intuitiva.
+
+---
+
+## 💬 3. Slack
+
+**Descripción:** Plataforma de comunicación para equipos que organiza conversaciones en canales temáticos. Facilita el intercambio de mensajes, archivos y videollamadas.
+
+---
+
+## 📁 4. Microsoft Teams
+
+**Descripción:** Solución integral para reuniones virtuales, chats, colaboración en documentos y gestión de tareas. Se integra con otras herramientas de Microsoft 365.
+
+---
+
+## 🧠 5. Notion
+
+**Descripción:** Espacio de trabajo todo-en-uno que combina notas, bases de datos, tareas y wikis. Ideal para equipos que buscan flexibilidad y organización visual.
+
+---
+
