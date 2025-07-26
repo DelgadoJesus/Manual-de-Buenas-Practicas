@@ -266,7 +266,7 @@ Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente
 
 ## 🗂️ 1. Google Drive
 
-![Google Drive](imagenes/herramientas/google-drive.png)
+![Google Drive](imagenes/Google_Drive_logo.png)
 
 **Descripción:** Plataforma de almacenamiento en la nube que permite compartir y editar archivos en tiempo real. Ideal para documentos, hojas de cálculo y presentaciones colaborativas.
 
@@ -274,7 +274,7 @@ Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente
 
 ## 📋 2. Trello
 
-![Trello](imagenes/herramientas/trello.png)
+![Trello](imagenes/Trello_logo.svg.png)
 
 **Descripción:** Herramienta de gestión de proyectos basada en tableros Kanban. Permite organizar tareas, asignar responsables y visualizar el progreso de forma intuitiva.
 
@@ -282,7 +282,7 @@ Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente
 
 ## 💬 3. Slack
 
-![Slack](imagenes/herramientas/slack.png)
+![Slack](imagenes/Slack_Technologies_Logo.svg.png)
 
 **Descripción:** Plataforma de comunicación para equipos que organiza conversaciones en canales temáticos. Facilita el intercambio de mensajes, archivos y videollamadas.
 
@@ -290,7 +290,7 @@ Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente
 
 ## 📁 4. Microsoft Teams
 
-![Microsoft Teams](imagenes/herramientas/microsoft-teams.png)
+![Microsoft Teams](imagenes/Microsoft_Office_Teams_(2018–present).svg.webp)
 
 **Descripción:** Solución integral para reuniones virtuales, chats, colaboración en documentos y gestión de tareas. Se integra con otras herramientas de Microsoft 365.
 
@@ -298,7 +298,7 @@ Ahora se presenta una selección de **5 herramientas colaborativas** ampliamente
 
 ## 🧠 5. Notion
 
-![Notion](imagenes/herramientas/notion.png)
+![Notion](imagenes/Notion_app_logo.png)
 
 **Descripción:** Espacio de trabajo todo-en-uno que combina notas, bases de datos, tareas y wikis. Ideal para equipos que buscan flexibilidad y organización visual.
 
